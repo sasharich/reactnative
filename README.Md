@@ -7,9 +7,8 @@ Through following several different online courses over winterim, I taught mysel
 
 My goal was to use it to practice building screens from scratch and adding different blocks, formatting, and pictures (things I previously had no idea how to do). I wanted to do this because I felt behind on the tech stack last term and wanted to make sure I could contribute at a helpful speed this term.
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
-[Screenshot](./screenshot1.png)
+Screenshots:
+[Screenshot 1](./screenshot1.png)
 
 ## Who Did What?
 
