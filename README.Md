@@ -9,6 +9,7 @@ My goal was to use it to practice building screens from scratch and adding diffe
 
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+[Screenshot](./screenshot1.png)
 
 ## Who Did What?
 
