@@ -25,3 +25,5 @@ Sasha Rich
 ## Acknowledgments
 
 Tutorial followed to build this specifically: https://www.youtube.com/watch?v=0-S5a0eXPoc
+
+In addition to the react native tutorials that I completed, I also wanted to make sure I was up to speed on Google Cloud and SQL (also technologies I had never used before last term), so I watched tutorials such as: https://www.youtube.com/watch?v=vACTtmLWiQY and https://www.freecodecamp.org/news/google-cloud-platform-from-zero-to-hero/ and https://www.javatpoint.com/google-cloud-platform to have more context on google cloud, and https://www.youtube.com/watch?v=zbMHLJ0dY4w to better understand how to use SQL.
